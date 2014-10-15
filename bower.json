@@ -1,0 +1,17 @@
+{
+  "name": "bb_lists",
+  "version": "1.4",
+  "homepage": "https://github.com/buildingfirefoxos/bb_lists",
+  "authors": [
+    "The gaia team"
+  ],
+  "description": "Lists  - Firefox OS Building Blocks",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
